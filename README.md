@@ -1,6 +1,6 @@
 ### Hi, you can call me Rian or Rianzinho 🥶🥵
 
-- 🌱 I'm currently learning java web development at Generation Brasil.
+- 🌱 I'm currently learning Java web development at Generation Brasil.
 - 📫 How to reach me: brianalmeida998@gmail.com
 
 <div align="center">
