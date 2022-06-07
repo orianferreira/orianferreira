@@ -2,6 +2,9 @@
 
 - 🌱 I'm currently learning Java web development at Generation Brasil.
 - 📫 How to reach me: brianalmeida998@gmail.com
+- 🥇 Goal - Become a Full-Stack developer.
+- 💬 About me - I'm 19 years old, I live in Cotia-SP, I have some projects in my repositories if you want to see them.
+- 😄 Pronouns: He/His/O.
 
 <div align="center">
   <a href="https://github.com/aerinho">
