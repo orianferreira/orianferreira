@@ -6,12 +6,6 @@
 - 💬 About me - I'm 19 years old, I live in Cotia-SP, I have some projects in my repositories if you want to see them.
 - 😄 Pronouns: He/His/O.
 
-<div align="center">
-  <a href="https://github.com/orianferreira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=orianferreira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orianferreira&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
   ##
  
 <div align="center" style="display: inline_block"><br>
