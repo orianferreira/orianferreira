@@ -1,6 +1,6 @@
 ### Hi, you can call me Rian or Rianzinho 🥶🥵
 
-- 🌱 I'm currently learning Java web development at Generation Brasil.
+- 🌱 I'm currently learning Java web development at Capgemini.
 - 📫 How to reach me: brianalmeida998@gmail.com
 - 🥇 Goal - Become a Full-Stack developer.
 - 💬 About me - I'm 19 years old, I live in Cotia-SP, I have some projects in my repositories if you want to see them.
