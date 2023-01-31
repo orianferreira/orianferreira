@@ -4,7 +4,6 @@
 - 📫 Como chegar até mim: brianalmeida998@gmail.com
 - 🥇 Objetivo - Torne-se um desenvolvedor Full-Stack.
 - 💬 About me - Sobre mim - Meu nome é Rian, tenho 19 anos, e moro em Cotia SP, sou apaixonado por computadores desde pequeno, por isso decidi que quando cresce-se trabalharia com algo relacionado a isso, e cá estou eu estudando para me tornar um Dev. Jr e ingressar no mercado de tecnologia, tenho alguns projetos nos meus repositórios caso queiram dar uma olhada, Obrigado.
-- 😄 Pronomes: Ele/Seu/O.
 
   ##
  
