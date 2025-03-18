@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile na PucRS.
 - 📫 Como chegar até mim: brianalmeida998@gmail.com / (11) 98341-8846
 - 🥇 Objetivo - Torne-se um Desenvolvedor Full-Stack.
-- 💬 About me - Sobre mim - Desenvolvedor com 1 ano de Estudo, em transição de carreira, buscando a primeira oportunidade de estágio Front-End/Back-End, tenho alguns projetos nos meus repositórios caso queiram dar uma olhada, Obrigado.
+- 💬 Sobre mim - Desenvolvedor com 1 ano de Estudo, em transição de carreira, buscando a primeira oportunidade de estágio Front-End/Back-End, tenho alguns projetos nos meus repositórios caso queiram dar uma olhada, Obrigado.
 
   ##
  
