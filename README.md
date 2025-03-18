@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile na PucRS.
 - 📫 Como chegar até mim: brianalmeida998@gmail.com / (11) 98341-8846
 - 🥇 Objetivo - Torne-se um Desenvolvedor Full-Stack.
-- 💬 About me - Sobre mim - Meu nome é Rian, tenho 21 anos, e moro em Cotia SP, sou apaixonado por computadores desde pequeno, por isso decidi que quando cresce-se trabalharia com algo relacionado a isso, e cá estou eu estudando para me tornar um Dev. Jr e ingressar no mercado de tecnologia, tenho alguns projetos nos meus repositórios caso queiram dar uma olhada, Obrigado.
+- 💬 About me - Sobre mim - Desenvolvedor com 1 ano de Estudo, em transição de carreira, buscando a primeira oportunidade de estágio Front-End/Back-End, tenho alguns projetos nos meus repositórios caso queiram dar uma olhada, Obrigado.
 
   ##
  
